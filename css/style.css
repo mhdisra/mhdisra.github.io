@@ -55,8 +55,8 @@ header ul li a:hover {
 }
 .banner {
     height: 60vh;
-    width: 100px 100px;
-    padding: 50px;
+    width: 100% 100%;
+    padding: 100px 100px;
     border: 40px solid #4F655D;
     background-image: url(../img/bannerp.jpg);
     background-size: cover;
